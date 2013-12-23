@@ -1,0 +1,4 @@
+Options -Indexes 
+<FilesMatch "\.(htm|html|css|js|php)$">
+deny from all
+</FilesMatch>

@@ -1,0 +1,26 @@
+div.CffClock, div.CffHours,
+div.CffMinutes, div.CffSeconds,
+div.CffLogo
+{
+    width: 484px;
+    height: 485px;
+    position: absolute;
+
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+
+div.CffHours { background-image: url(images/clock_hours.png); }
+div.CffMinutes { background-image: url(images/clock_minutes.png); }
+div.CffSeconds { background-image: url(images/clock_seconds.png); }
+div.CffLogo { background-image: url(images/logo.png); }
+
+div.CffClock
+{
+    left: 50%;
+    top: 50%;
+    margin-left: -242px;
+    margin-top: -242px;
+
+    background-image: url(images/clock_bg.png);
+}
