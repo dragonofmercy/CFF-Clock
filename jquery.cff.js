@@ -1,7 +1,7 @@
 /*
  * Licensed under the new BSD license: http://www.opensource.org/licenses/BSD-3-Clause New BSD license
  *
- * Made by David Zeller, zellerda01@gmail.com, Clarens, Suisse, 10.2012
+ * @author David Zeller <me@zellerda.com>
  * Website: http://www.zellerda.com
  */
 (function($, cff){
